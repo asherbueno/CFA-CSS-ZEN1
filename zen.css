@@ -1,0 +1,104 @@
+html
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	margin-left: 750px;
+	margin-right: 750px;
+	padding: 20;
+	font-size: 90%;
+	font-family: 'Roboto', sans-serif;
+	color: black;
+}
+
+header h1
+{
+		background-color: #F4F4F4;
+		color: black;
+		text-align: center;
+		width: 520px;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 0px;
+		font-family: 'Montserrat Subrayada', sans-serif;
+		font-size: 800%
+}
+
+header h2
+{
+	background-color: #C0b283;
+	color: black;
+	text-align: center;
+	width: 520px;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 0px;
+	font-size: 490%;
+	font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+p
+{
+	background-color: #F4F4F4;
+	color: #373737;
+	text-align: justify;
+	width: 520px;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 0px;
+	margin-top: 0;
+	font-size: 120%;
+}
+
+h3
+{
+	background-color: #C0b283;
+	color: black;
+	text-align: center;
+	width: 520px;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 0px;
+	font-size: 395%;
+	font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+header
+{
+	margin: 0;
+	padding: 0;
+	font-size: 90%;
+	font-family: georgia, serif;
+	color: #9685BA ;
+	background-color: white;
+}
+
+a:link {
+	font-weight: bold;
+	text-decoration: underline;;
+	color: #565656;
+	}
+
+	a:visited {
+		font-weight: bold;
+		text-decoration: none;
+		color: #D4CDDC;
+		}
+	a:hover, a:focus, a:active {
+		text-decoration: underline;
+		color: #9685BA;
+		}
+	abbr {
+		border-bottom: none;
+		}
+
+		footer {
+			text-align: center;
+			margin-left: 90px;
+			}
+		footer a:link, footer a:visited {
+			text-align: center;
+			margin-left: 30px;
+			}
